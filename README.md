@@ -83,7 +83,7 @@ To retrieve stored information, simply input the application name, and CipherPas
 3. Run the application:
 
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 ## Security Notes 🔐
